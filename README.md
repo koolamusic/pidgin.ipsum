@@ -58,6 +58,19 @@ Contributed by: [@koolamusic](https://github.com/koolamusic)
 
 > As we dey waka jejely for we town, dem dey yan say, Pellentesque eu, pretium quis, shey na so we go dey carry go dey go. Nulla consequat massa quis enim way dem talk, we go still dey waka waka for we side, totam rem aperiam, eaque ipsa quae ab illo inventore. Di matter ehn, e go be like say na only di ginger we go dey use dey push us, veritatis et quasi architecto beatae vitae dicta sunt explicabo. No be say na how we go dey yan for real life o, but just make e helep you catch wetin you wan see.
 
+
+## Pidsum Naija go better
+
+Contributed by: [@seunfashina002](https://github.com/seunfashina002)
+
+> my pipo my pipo Lorem ipsum dolor sit amet wetin dey shele for naija no be small o consectetur adipisicing elit, maxime. For dis life wey we dey so Id asperiores provident, plenty tins dey happen nostrum ipsum vero wey fit make pesin wan troway towel, debitis assumenda dolorum but na who give up fuck up. 
+
+>Eiii repudiandae excepturi e don tey libero porro wey we don dey talk say voluptate Nigeria go better voluptatem commodi, e con be like say amet ut rem omnis we yuss dey play. Naija be like latin quia wey man no fit understand perspiciatis sunt et, we cry cry veniam mollitia make goffament helep us so tey quo, optio we turn town crier voluptates Perspiciatis. but we go still dey believe ab provident cos if we no believe who go helep us believe aut
+
+  
+
+>  Ullam rerum but as we dey believe, laudantium commodi we no go just sit down tempore odio cum dey wait make manna fall from heaven fugiat provident, make we try dey show love sint velit aliquid, make we dey helep people non autem quod nesciunt. if you no get work voluptates veritatis find work inventore, no dey thief person money voluptatem commodi con dey call am grace amet ut rem omnis. Nigeria na we own oo, quia perspiciatis.
+ 
 ## Contributors 😍
 
 Many thanks to these Ogbonge people wey don contribute to this archive.
