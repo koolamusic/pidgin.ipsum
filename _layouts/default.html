@@ -6,8 +6,55 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
+    <!-- Tachyons CSS -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Shantell+Sans:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <style>
+      * {
+        font-family: 'EB Garamond', serif;
+      }
+
+      body {
+        line-height: 1.5;
+        background: #f2efea;
+        color: #333;
+      }
+      br {
+        margin-bottom: 0px;
+      }
+      .markdown-body blockquote {
+        margin-bottom: 4px;
+        border-left: 0px;
+        color: #504b4b;
+      }
+
+      .markdown-body hr, hr {
+        border: 0;
+        background-color: #5b5555;
+        border-top: 1px solid #383838;
+        margin: 20px 0;
+      }
+      a {
+        color: #1a0dab;
+        text-decoration: none;
+      }
+      a:hover {
+        color: #d7373d;
+        text-decoration: underline;
+      }
+      p {
+        font-size: 17px;
+        word-wrap: break-word;
+      }
+      h1, h2, h3, h4, h5, h6 {
+        font-family: 'Shantell Sans', Georgia, Times New Roman, serif;
+        color: #383838;
+        margin-bottom: 20px;
+      }
+    </style>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
@@ -26,8 +73,51 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
     <script>
-      document.querySelectorAll("h2[id^=act] + p + blockquote").forEach((x) => {
-        x.setAttribute('contentEditable', true);
+
+      /**
+       * Group consecutive blockquotes together.
+       */
+      const consecutiveBlockquotes = [];
+      let currentGroup = [];
+      document.querySelectorAll("h2[id^=pidsum] + p + blockquote, blockquote + blockquote").forEach((blockquote, index, nodeList) => {
+        // Add the current blockquote to the group.
+        currentGroup.push(blockquote);
+
+        // Determine whether the current blockquote is the last one in the nodeList.
+        const isLast = index === nodeList.length - 1;
+
+        // Determine whether the next element is not a consecutive blockquote.
+        const isNotConsecutive = blockquote.nextElementSibling && blockquote.nextElementSibling.tagName !== 'BLOCKQUOTE';
+
+        // If the current blockquote is the last one or not consecutive, add the currentGroup to consecutiveBlockquotes and reset currentGroup.
+        if (isLast || isNotConsecutive) {
+          consecutiveBlockquotes.push(currentGroup);
+          currentGroup = [];
+        }
+      });
+
+      /**
+       * Iterate through each group of consecutive blockquotes.
+       */
+      consecutiveBlockquotes.forEach(group => {
+        // Create a div element to wrap all blockquotes in the group, making it contentEditable.
+        const editableDiv = document.createElement('div');
+        editableDiv.setAttribute('contentEditable', true);
+        editableDiv.setAttribute('spellcheck', 'false');
+
+        // Append each blockquote in the group to the editableDiv, and add a line break between blockquotes.
+        group.forEach((blockquote, index) => {
+          editableDiv.appendChild(blockquote.cloneNode(true));
+          if (index !== group.length - 1) {
+            editableDiv.appendChild(document.createElement('br'));
+          }
+        });
+
+        // Insert the editableDiv before the first blockquote in the group and remove the original blockquotes.
+        group[0].parentNode.insertBefore(editableDiv, group[0]);
+        group.forEach(blockquote => blockquote.remove());
+
+        // Create the copy button and add the necessary styles and properties.
         const button = document.createElement('button');
         button.style.border = '0';
         button.style.borderRadius = '3px';
@@ -35,16 +125,23 @@
         button.style.marginRight = '0.5rem';
         button.style.padding = '0';
         button.style.backgroundColor = 'transparent';
-        button.innerHTML = '✂️';
+        button.innerHTML = '📋';
+
+        // Add a click event listener to handle the copy functionality.
         button.addEventListener('click', async () => {
           if (navigator.clipboard) {
-            await navigator.clipboard.writeText(x.innerText);
-            alert('Text is copied, you can paste this into your design placeholder.');
+            // If the browser supports the Clipboard API, copy the text from editableDiv to the clipboard.
+            const blockquotesText = editableDiv.innerText;
+            await navigator.clipboard.writeText(blockquotesText);
+            alert('We don copy di tory, you fit paste am anywhere.');
           } else {
-            alert('Your browser does not support clipboard copy. Please select the text and copy.')
+            // If the browser does not support the Clipboard API, display an alert message.
+            alert('Your browsing no support clipboard copy. Abeg choose di text make you copy am.');
           }
         }, false);
-        x.previousElementSibling.previousElementSibling.prepend(button);
+
+        // Prepend the copy button to the editableDiv.
+        editableDiv.previousElementSibling.previousElementSibling.prepend(button);
       });
     </script>
     <style>video { max-width: 100% !important; }</style>

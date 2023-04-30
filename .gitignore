@@ -1,1 +1,5 @@
 CNAME
+
+# Jekyll generated
+_site
+.jekyll*
