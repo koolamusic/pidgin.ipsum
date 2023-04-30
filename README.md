@@ -26,7 +26,30 @@ Pidgin Ipsum na correct way to helep you arrange beta UX as you dey work with pi
 
 ---
 
-# Pidgin Ipsum
+# Pidgin Ipsum Snippets
+
+## Pidsum Orijin
+
+<p id="paragraph">
+De dis tori na just tori way no get meaning, na just to helep person way dey waka for text matter. Make you no vex if e no dey flow well well, na just to helep you fill space for your work so e go balance well well. No be say na how we dey yan for real life o, na just for this one way I wan show you so e go helep your eye catch wetin you wan see.
+<br>
+Di yonder sun dey shine, e dey touch person body well well. As dem dey yan, so e dey for we town. Make we gather na to chop beta food way mama don prepare for we. E don tey way we see this kain beta weather for we side, e good make we jolly together, make we just flex dey go. No be wetin person fit yan for mouth, but e just be like say we go dance dey go till morning.
+<br>
+Na so e dey for dis side o, my brother. We go dey waka jejely for we town, dey look as e be for every corner. Make you no forget say na just tori way no get meaning na im I wan helep you put for your work. Make we dey waka dey go, life na jolly way dey sweet pass sugar.
+E go better, my people. No be say na how we go dey yan for real life o, but just make e helep you catch wetin you wan see. Na so we go dey carry go dey go, no wahala go show for we side.
+</p>
+
+<!-- add your snippet contributions below this line -->
+
+## Pidsum Choke
+
+Contributed by: [@koolamusic](https://github.com/koolamusic)
+
+> Choketh ipsum well well, dolor sit amet, but as we full ground we go still dey show levels. E be like say na only so-so palava, consectetuer adipiscing elit, but na di way e be for dis world, make e helep you catch wetin you wan see. Sed ut perspiciatis unde, as e don dey hot, we still dey ginger our swagger, omnis iste natus error sit voluptatem e no go stop us to shine na so e be.
+
+> Dem fit say di tori no dey make brain, Aenean commodo ligula eget dolor but na so e go be for dis time. Aenean massa cum sociis natoque penatibus et, we go dey waka jejely for we town, dey look as e be for every corner. Et magnis dis parturient montes, nascetur ridiculus mus. Make you no forget say na just tori way no get meaning na im I wan helep you put for your work.
+
+> Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Na so we go dey carry go dey go, no wahala go show for we side. E go better, my people. Fusce vulputate eleifend sapien, vestibulum purus eget, viverra suscipit. No be say na how we go dey yan for real life o, but just make e helep you catch wetin you wan see.
 
 ## Contributors 😍
 
@@ -35,7 +58,6 @@ Many thanks to these Ogbonge people wey don contribute to this archive.
 <a href="https://github.com/koolamusic/pidgin.ipsum/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=koolamusic/pidgin.ipsum" />
 </a>
-
 
 # License
 
