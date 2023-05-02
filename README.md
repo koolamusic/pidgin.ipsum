@@ -76,14 +76,14 @@ Contributed by: [@seunfashina002](https://github.com/seunfashina002)
 
 Contributed by: [@seunfashina002](https://github.com/seunfashina002)
 
-> Tori tori o Magni fugiat qui I don carry another gist come praesentium hic maxime. If you no dey live under rock Id asperiores provident you go don see video wey people dey yarn eiii Brother Bernard sit inventore debitis. I no say una no sabi how he take start facere aut quibusdam, no wahala I go run am for you like Usain bolt soluta dignissimos beatae
+> Tori tori o! Magni fugiat qui I don carry another beta gist come praesentium hic maxime. If you no dey live under rock, Id asperiores provident, you go don see video wey people dey yarn "Eiii Brother Bernard" sit inventore debitis. I know say una no sabi how e take start, facere aut quibusdam, no wahala I go run am for you like Usain Bolt soluta dignissimos beatae.
 
 
-> voluptatem commodi the tori be say, one woman wey go funeral for church  excepturi repudiandae fall yakata for inside grave wey dem wan bury Reverend Father Bernard Kofi Ackon voluptates Perspiciatis wey die for cape coast hosipital. 
+> voluptatem commodi ehn ehn, na one woman oo excepturi repudiandae she waka go fall yakata for inside cake wey Reverend Father Bernard Kofi Ackon voluptates Perspiciatis wan take do fiftieth birthday ullam rerum velit aliquid. 
 
   
 
->  E be like say she wan follow Father Bernard go libero porro but she no know say veniam mollitia her time neva reach. tey quo, optio As she fall, everybodi con shout "Eiii Father Bernard".Perferendis accusamus dolorum as the tori come burst online, everybody begin shout "Eii brother Bernard" saepe quasi officia dem no sabi wetin happen sef. Normal normal, naija na cruise
+>  E be like say she wan quick enter fifty libero porro, but she no sabi say veniam mollitia her time never reach. No wahala, na so e be, optio. As she fall yakata, everybody come dey hala "Eiii Father Bernard". As per perferendis accusamus way, as the tori burst for internet, people come dey shout "Eii Brother Bernard", saepe quasi officia, dem no even sabi wetin dey happen sef. Na normal level, Naija na better cruise.
 
 
 ## Contributors 😍
