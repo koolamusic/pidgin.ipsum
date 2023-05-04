@@ -70,7 +70,22 @@ Contributed by: [@seunfashina002](https://github.com/seunfashina002)
   
 
 >  Ullam rerum but as we dey believe, laudantium commodi we no go just sit down tempore odio cum dey wait make manna fall from heaven fugiat provident, make we try dey show love sint velit aliquid, make we dey helep people non autem quod nesciunt. if you no get work voluptates veritatis find work inventore, no dey thief person money voluptatem commodi con dey call am grace amet ut rem omnis. Nigeria na we own oo, quia perspiciatis.
- 
+
+
+## Pidsum Eiii Brother Bernard
+
+Contributed by: [@seunfashina002](https://github.com/seunfashina002)
+
+> Tori tori o! Magni fugiat qui I don carry another beta gist come praesentium hic maxime. If you no dey live under rock, Id asperiores provident, you go don see video wey people dey yarn "Eiii Brother Bernard" sit inventore debitis. I know say una no sabi how e take start, facere aut quibusdam, no wahala I go run am for you like Usain Bolt soluta dignissimos beatae.
+
+
+> voluptatem commodi ehn ehn, na one woman oo excepturi repudiandae she waka go fall yakata for inside cake wey Reverend Father Bernard Kofi Ackon voluptates Perspiciatis wan take do fiftieth birthday ullam rerum velit aliquid. 
+
+  
+
+>  E be like say she wan quick enter fifty libero porro, but she no sabi say veniam mollitia her time never reach. No wahala, na so e be, optio. As she fall yakata, everybody come dey hala "Eiii Father Bernard". As per perferendis accusamus way, as the tori burst for internet, people come dey shout "Eii Brother Bernard", saepe quasi officia, dem no even sabi wetin dey happen sef. Na normal level, Naija na better cruise.
+
+
 ## Contributors 😍
 
 Many thanks to these Ogbonge people wey don contribute to this archive.
